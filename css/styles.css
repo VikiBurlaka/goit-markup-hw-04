@@ -653,28 +653,17 @@ padding-bottom: 94px;
    padding-bottom: 94px;
 }
 
-.jj {
-    
-}
-
-.aaa {
-    
-}
-   
-   
-   
-    
-
-
 .project-li {
-  flex-basis: calc((100% - 2 * 30px) / 3);
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 262px;
-  background: #FFFFFF;
-  
-  
+    flex-basis: calc((100% - 2 * 30px) / 3);
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+    background: #FFFFFF;
+}
+
+.project-link {
+    
 }
 
 .project-li:hover {
